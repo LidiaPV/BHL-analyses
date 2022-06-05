@@ -39,7 +39,7 @@ All acronyms for subset names are indicated in parentheses in the next section o
 + Greater Regions (GR) subset - Incorporates all BHL records* (4465) that include at least one of the following subjects: Latin America, Central America, South America, West Indies. 
 + Latin American Countries (LAC) subset - Incorporates all BHL records (6801) that include the name of at least one Latin American country (except Mexico): Argentina, Belize, Bolivia, Brazil,  British Guiana, Chile, Colombia, Costa Rica/Costa-Rica, Ecuador, El Salvador, French Guiana, Guatemala, Guiana/Guyana, Honduras, Nicaragua, Panama, Paraguay, Peru, Surinam/e, Uruguay, Venezuela.
 + Mexico (MEX) subset - Incorporates all BHL records (2995) that include at least one of the following subjects: Mexico; Mexico, North; Mexico, Northern.
-Indigenous Peoples – General (IP-G) subset - Incorporates all BHL records (1052) that include at least one of the following subjects: Indians of Central America, Indians of Mexico, Indians of South America, Indians of the West Indies, Aztecs, Incas. 
++ Indigenous Peoples – General (IP-G) subset - Incorporates all BHL records (1052) that include at least one of the following subjects: Indians of Central America, Indians of Mexico, Indians of South America, Indians of the West Indies, Aztecs, Incas. 
 + Indigenous Peoples – Specific (IP-S) subset - Incorporates all BHL records (135) that include at least one of the following subjects: Carib Indians, Choco Indians, Cuna Indians, Diaquita Indians, Goajiro Indians, Huichol Indians, Kickapoo Indians, Mapuche Indians, Mayas, Mayoruna Indians, Mojo Indians, Shipibo-Conibo Indians, Taino Indians, Tairona Indians, Tarahumara Indians, Yahgan Indians.
 + West Indies (WI) - Contains all unique IDs (228) that include the subject West Indies. 
 + Central-Latin-South America (CLS) - Contains all unique IDs (710) that include at least one of the following subjects: Central America, Latin America, South America. 
@@ -50,7 +50,8 @@ Indigenous Peoples – General (IP-G) subset - Incorporates all BHL records (105
 + Panama (PAN) - Contains all unique IDs (185) that include the subject Panama.
 + Bertholletia excelsa - Incorporates subject lists of all records (680) in BHL as of January 2022 that contain the scientific name *Bertholletia excelsa*. These records were obtained through a scientific name search on [BHL's website] (https://www.biodiversitylibrary.org/).
 + Indians of - ALL (I-ALL) - Incorporates subject lists of all records (417) in BHL that contain a subject beginning with the frase *Indians of* in their subject lists.
-+ Indians of Mexico/Indians of Mexico-Central-South America/Indians of the West Indies (I-LA) - Incorporates all records (158)in BHL that contain one of the following subjects in their subject lists: *Indians of Mexico, Indians of Central America, Indians of South America, Indians of the West Indies*.
++ Indians of Mexico/Indians of Mexico-Central-South America/Indians of the West Indies (IP-G2) - Incorporates all records (158)in BHL that contain one of the following subjects in their subject lists: *Indians of Mexico, Indians of Central America, Indians of South America, Indians of the West Indies*.
++ Indigenous (IND) - Incorporates subject lists of all records (17) in BHL that contain the term *Indigenous* as part of at least one subject referring to Indigenous peoples in their subject lists.
 
 *All data in numbers as of July 1st, 2021 except when otherwise indicated. 
 
