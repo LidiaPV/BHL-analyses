@@ -1,4 +1,4 @@
-# BHL-Thesis
+# BHL-analyses
 
 ## BACKGROUND
 
